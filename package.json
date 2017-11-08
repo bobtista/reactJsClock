@@ -1,7 +1,7 @@
 {
   "name": "my-clock",
   "version": "0.1.0",
-  "main": "src/index.js",
+  "main": "dist/bundle.js",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
