@@ -1050,7 +1050,7 @@ var Clock = function (_React$Component) {
 
 exports.default = Clock;
 
-_reactDom2.default.render(_react2.default.createElement(Clock, null));
+_reactDom2.default.render(_react2.default.createElement(Clock, null), document.getElementById('root'));
 
 /***/ }),
 /* 16 */
